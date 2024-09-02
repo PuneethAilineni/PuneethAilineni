@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PuneethAilineni](https://github.com/PuneethAilineni)
 
-- 📫 How to reach me **puneeth.ailineni@gmail.com**
+- 📫 How to reach me **ailinenip@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/ailin/AppData/Local/Microsoft/Windows/INetCache/IE/3MIEQ84R/IIT_Guwahati_R%C3%A9sum%C3%A9_(1)[1].pdf](file:///C:/Users/ailin/AppData/Local/Microsoft/Windows/INetCache/IE/3MIEQ84R/IIT_Guwahati_R%C3%A9sum%C3%A9_(1)[1].pdf)
 
