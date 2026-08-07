@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Puneeth Ailineni 👋</h1>
 
 <h3 align="center">Machine Learning Engineer | Software Engineer @ Samsung R&D | GenAI & MLOps</h3>
@@ -64,11 +65,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneethAilineni&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethAilineni&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuneethAilineni&theme=default" alt="GitHub Streak" />
